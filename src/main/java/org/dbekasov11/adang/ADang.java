@@ -26,7 +26,6 @@ public final class ADang extends JavaPlugin {
    private BDang bDang;
    private Storage items;
    private AddShulkers addShulkers;
-   private static ADang instance;
 
    public void onEnable() {
       instance = this;

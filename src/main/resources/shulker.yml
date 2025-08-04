@@ -1,0 +1,10 @@
+shulker:
+  openSound: "ui_toast_challenge_complete"
+  lockedSound: "BLOCK_BARREL_CLOSE"
+  particle: "totem"
+  particleCount: 20
+  particleOffsetX: 1.5
+  particleOffsetY: 1.5
+  particleOffsetZ: 1.5
+  minItems: 1
+  maxItems: 53

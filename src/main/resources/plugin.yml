@@ -1,0 +1,37 @@
+name: Adang
+version: '3.5'
+main: org.dbekasov11.adang.ADang
+api-version: '1.16'
+website: dsc.gg/adang
+authors:
+  - АлексКод
+  - dbekasov11
+commands:
+  adang:
+    aliases:
+      - dang
+      - serverdang
+
+depend:
+  - WorldGuard
+  - WorldEdit
+
+permissions:
+  bdang.admin:
+    default: op
+  bdang.command.additem:
+    default: false
+  bdang.command.spawn:
+    default: false
+  bdang.command.spawnschem:
+    default: false
+  bdang.command.givekrystal:
+    default: false
+  bdang.command.givekey:
+    default: false
+  bdang.command.list:
+    default: false
+  bdang.command.undo:
+    default: false
+  bdang.command.reload:
+    default: false

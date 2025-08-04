@@ -1,0 +1,71 @@
+messages:
+  openDung:
+    - "§x§5§5§C§1§F§F▶ {player}&f открыл секретное хранилище!"
+  saveKey: "&fТы &aсохранил&f ключ"
+  closedDung:
+    - "&6▶ &fУ вас нет &6Универсального ключа&f, чтобы открыть"
+    - "&fхранилище."
+    - "&6▶ &7Найти ключ можно в любом ванильном данже, с"
+    - "&7определённой вероятностью"
+  give:
+    givekey:
+      - "&6▶ &fКлюч выдан игроку §x§5§5§C§1§F§F{player}"
+    noplayer:
+      - "&6▶ §fИгрок не &cнайден."
+    nickplayer:
+      - "&6▶ §fУкажите ник игрока."
+    invalidamount:
+      - "&6▶ &fУкажите корректное количество кристаллов."
+  givekrystal:
+    givekrystal:
+      - "&6▶ &fКристалл выдан игроку §x§5§5§C§1§F§F{player}"
+    noplayer:
+      - "&6▶ §fИгрок не &cнайден."
+    nickplayer:
+      - "&6▶ §fУкажите ник игрока."
+    invalidamount:
+      - "&6▶ &fУкажите корректное количество ключей."
+  spawnschem:
+    helpspawn:
+      - "&6▶ &fИспользуйте: /spawnschem <название схемы>"
+    spawncordenates:
+      - "&6▶ &fДанж §x§5§5§C§1§F§F{schematika}&f заспавнен"
+    onlainfile:
+      - "&6▶ §fСхема §x§5§5§C§1§F§F{schem_name}§f не найдена в папке &7schem!"
+    registerschem:
+      - "&6▶ §fСхема §x§5§5§C§1§F§F{schem_file}&f не &cзарегистрирована&f в world.yml!"
+  spawn:
+    helpspawn:
+      - "&6▶ §fИспользуйте: /adang spawn <количество>"
+    dangspawn:
+      - "&6▶ &fДанж заспавнен на координатах §x§5§5§C§1§F§F{x} {y} {z}"
+    numberhelp:
+      - "&6▶ §fОшибка: Введите корректное число для спавна!"
+    failed:
+      - "&6▶ §fНе удалось заспавнить данж на координатах §x§5§5§C§1§F§F{x} {y} {z}&f — неподходящий биом."
+  reload:
+    reloadplugin:
+      - "&6▶ &fПлагин &aперезагружен."
+  additem:
+    helpadd:
+      - "&6▶ §fИспользуйте: /adang additem <количество> <минимум> <максимум>"
+    successfully:
+      - "&6▶ §fПредмет &aуспешно&f добавлен."
+    addnumberhelp:
+      - "&6▶ §fОшибка: Введите корректные числовые значения."
+    itemno:
+      - "&6▶ §fУ вас нет &cпредмета&f в руке!"
+  undo:
+    helpundo:
+      - "&6▶ &fИспользуйте: /adang undo <id>"
+    removeregion:
+      - "&6▶ &fРегион §x§5§5§C§1§F§F{region_name}&f успешно удалён из мира §x§5§5§C§1§F§F{world}&f"
+    removeshulker:
+      - "&6▶ &fУдалено §x§5§5§C§1§F§F{shulker}&f шалкеров из shulkers.yml"
+    regionfound:
+      - "&6▶ &fРегион с ID §x§5§5§C§1§F§F{id}&f не найден"
+  list:
+    tp:
+      - "&6▶ &fВы были телепортированы в данж: §x§5§5§C§1§F§F{id}"
+    regionfound:
+      - "&6▶ &fРегион с ID §x§5§5§C§1§F§F{id}&f не найден"

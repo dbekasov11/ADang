@@ -1,0 +1,26 @@
+region:
+  size:
+    x: 12
+    z: 12
+  name_format: "dang_{name}"
+flags:
+  use: allow
+  block-break: deny
+  build: deny
+  mob-spawning: deny
+  pvp: allow
+  tnt: deny
+  chest-access: allow
+  creeper-explosion: deny
+  damage-animals: deny
+  ghast-fireball: deny
+  respawn-anchors: deny
+  enderdragon-block-damage: deny
+  mob-damage: deny
+  lava-fire: deny
+  lightning: deny
+  lighter: deny
+
+
+
+

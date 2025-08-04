@@ -1,0 +1,19 @@
+key:
+  material: tripwire_hook
+  name: "&6Универсальный ключ"
+  chanceSpawn: 20
+  saveChance: 40
+  hideEnchantments: false
+  lore:
+    - "§f"
+    - "§fИспользуйте данный ключ для открытия"
+    - "§fданжа с секретным хранилищем"
+
+krystal:
+  material: prismarine_crystals
+  name: "&6Осколок от ключа"
+  hideEnchantments: false
+  lore:
+    - "§f"
+    - "§fИспользуйте данный осколок в крафте"
+    - "§fуниверсального ключа для открытия данжа"

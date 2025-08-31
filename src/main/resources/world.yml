@@ -18,8 +18,8 @@ dang:
     biome: the_end;end_highlands;end_midlands;end_barrens;small_end_islands
     world: world_the_end
   4:
-    fileName: dang3.schem
-    biome: plains;sunflower_plains;savanna;birch_forest;dark_forest;flower_forest;cherry_grove
+    fileName: temple.schem
+    biome: desert
     world: world
   5:
     fileName: grib.schem
@@ -30,22 +30,22 @@ dang:
     biome: plains;sunflower_plains;savanna;birch_forest;dark_forest;flower_forest;cherry_grove
     world: world
   7:
-    fileName: santa.schem
-    biome: plains;sunflower_plains;savanna;birch_forest;dark_forest;flower_forest;cherry_grove
+    fileName: moiak.schem
+    biome: desert
     world: world
   8:
     fileName: smel.schem
     biome: plains;sunflower_plains;savanna;birch_forest;dark_forest;flower_forest;cherry_grove
     world: world
   9:
+    fileName: goder.schem
+    biome: plains;sunflower_plains;savanna;birch_forest;dark_forest;flower_forest;cherry_grove
+    world: world
+  10:
     fileName: grib2.schem
     biome: nether_wastes;crimson_forest;warped_forest;soul_sand_valley;basalt_deltas
     world: world_nether
-  10:
-    fileName: grib3.schem
-    biome: nether_wastes;crimson_forest;warped_forest;soul_sand_valley;basalt_deltas
-    world: world_nether
   11:
-    fileName: moiak.schem
+    fileName: grib3.schem
     biome: nether_wastes;crimson_forest;warped_forest;soul_sand_valley;basalt_deltas
     world: world_nether

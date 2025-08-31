@@ -1,5 +1,5 @@
 name: Adang
-version: '3.5'
+version: '3.7'
 main: org.dbekasov11.adang.ADang
 api-version: '1.16'
 website: dsc.gg/adang

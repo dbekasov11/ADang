@@ -30,6 +30,8 @@ public final class ADang extends JavaPlugin {
 
    public void onEnable() {
       instance = this;
+      int pluginId = 26611;
+      new Metrics(this, pluginId);
       Config.load(this.getConfig(), this);
       this.shulkers = new Storage("shulkers.yml", this);
       this.items = new Storage("items.yml", this);
@@ -45,7 +47,9 @@ public final class ADang extends JavaPlugin {
       new File(getDataFolder(), "schem").mkdirs();
       getServer().getPluginManager().registerEvents(new MenuClick(), this);
       this.getCommand("adang").setExecutor(new BDangCommands(this.bDang, this.dungActions, this, this.items, this.shulkers));
+      getLogger().info("bStats успешно инициализирован!");
    }
+
    public static ADang getInstance() {
       return instance;
    }

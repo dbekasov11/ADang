@@ -1,6 +1,5 @@
 package org.dbekasov11.adang.menu.utils;
 
-package org.dbekasov11.adang.menu.utils;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.YamlConfiguration;

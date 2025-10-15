@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="dbekasov11.svg" alt="banner" width="100%" />
-</p>
+![dbekasov11](https://github.com/user-attachments/assets/4b947091-bc63-4261-b9a2-09c7f1c9d082)
+
+
 
 <h1 align="center">Привет — я <strong>dbekasov11</strong> 👋</h1>
 
